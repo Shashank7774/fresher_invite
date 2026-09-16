@@ -1,0 +1,1335 @@
+{
+  "students": [
+    {
+      "id": "STU001",
+      "name": "AANYA GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU002",
+      "name": "AASTHA GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU003",
+      "name": "AASTHA PANDEY",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU004",
+      "name": "ABDUL RAHMAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU005",
+      "name": "ABHAY PRATAP SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU006",
+      "name": "ABHI SHARMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU007",
+      "name": "ABHIJEET RANA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU008",
+      "name": "ABHINAV DIXIT",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU009",
+      "name": "ABHINAV PANDEY",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU010",
+      "name": "ADITYA MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU011",
+      "name": "ADIVYA RASTOGI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU012",
+      "name": "AHAM PRAJAPATI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU013",
+      "name": "AISHA KHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU014",
+      "name": "AKASH BHARTI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU015",
+      "name": "AKASH DIXIT",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU016",
+      "name": "ALOK VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU017",
+      "name": "AMAN AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU018",
+      "name": "AMAN MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU019",
+      "name": "AMRAT MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU020",
+      "name": "ANAND ADHIKAR MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU021",
+      "name": "ANIRUDDH BAJPAI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU022",
+      "name": "ANIYA AKHLAQ",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU023",
+      "name": "ANSH KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU024",
+      "name": "ANSH PRATAP SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU025",
+      "name": "ANSH VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU026",
+      "name": "ANSHIKA GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU027",
+      "name": "ANUBHAV SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU028",
+      "name": "ANUBHAV VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU029",
+      "name": "ANURAG",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU030",
+      "name": "ANUSHKA AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU031",
+      "name": "ANUSHRAVI TIWARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU032",
+      "name": "ANYA BATHAM",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU033",
+      "name": "ARPIT AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU034",
+      "name": "ARPIT SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU035",
+      "name": "ARUSHI SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU036",
+      "name": "ARYAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU037",
+      "name": "ARYAN RAJ SHUKLA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU038",
+      "name": "ASHISH VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU039",
+      "name": "ASMITA SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU040",
+      "name": "AVNI GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU041",
+      "name": "AYUSH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU042",
+      "name": "AYUSH TRIPATHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU043",
+      "name": "DEEPESH MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU044",
+      "name": "DEVENDRA PRATAP SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU045",
+      "name": "GAURAV SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU046",
+      "name": "GAURI GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU047",
+      "name": "GAURI GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU048",
+      "name": "HARIOM CHATURVEDI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU049",
+      "name": "HARMAN JEET SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU050",
+      "name": "HINA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU051",
+      "name": "ISHA SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU052",
+      "name": "ISHANT KASHYAP",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU053",
+      "name": "JAHNAVI BAJPAI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU054",
+      "name": "JANNAT KAMBOJ",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU055",
+      "name": "JANVI KUMARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU056",
+      "name": "JANVI VAISHY",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU057",
+      "name": "JAYA MAURYA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU058",
+      "name": "KUBENDRA ANAND",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU059",
+      "name": "MADHURI RATHOUR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU060",
+      "name": "MAHI GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU061",
+      "name": "MAHIMA NAYAK",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU062",
+      "name": "MANAS MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU063",
+      "name": "MANJARI MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU064",
+      "name": "MANSI SHUKLA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU065",
+      "name": "MEENAKSHI SAXENA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU066",
+      "name": "MO ARMAN ANSARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU067",
+      "name": "MO JISHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU068",
+      "name": "MO. SALEEM",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU069",
+      "name": "MOHAMMAD NOMAN BABU",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU070",
+      "name": "MOHAMMAD RAZA HASNAIN ZAIDI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU071",
+      "name": "MOHAMMAD SHAHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU072",
+      "name": "MOHAMMAD UMAIR ANSARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU073",
+      "name": "MOHD AMIR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU074",
+      "name": "MOHD AMIR KHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU075",
+      "name": "MOHD FAIZAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU076",
+      "name": "MOHD JAVED",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU077",
+      "name": "NAITIK RASTOGI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU078",
+      "name": "NAJEEM",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU079",
+      "name": "NASHRA KHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU080",
+      "name": "NIHAL BULANI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU081",
+      "name": "NIHARIKA SAXENA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU082",
+      "name": "NIKHIL RATHAUR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU083",
+      "name": "NIRMAL KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU084",
+      "name": "NITIN SHUKLA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU085",
+      "name": "NITYAM AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU086",
+      "name": "OM TRIPATHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU087",
+      "name": "PALAK AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU088",
+      "name": "PALAK SHUKLA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU089",
+      "name": "PARIDHI MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU090",
+      "name": "PARTH KAITHWAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU091",
+      "name": "POORVI MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU092",
+      "name": "PRATEEK SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU093",
+      "name": "PRIYANSHU ROYAL",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU094",
+      "name": "PUSHKAR MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU095",
+      "name": "RAHUL KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU096",
+      "name": "RAVI SHARMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU097",
+      "name": "RIDDHIMA MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU098",
+      "name": "RIDHIMA MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU099",
+      "name": "RISHIKA GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU100",
+      "name": "RITIKA KANAUJIYA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU101",
+      "name": "RIYANSH KASHYAP",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU102",
+      "name": "RUDRA PRATAP RAJVANSHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU103",
+      "name": "SAHIL KANUJIYA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU104",
+      "name": "SAKET VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU105",
+      "name": "SAKSHI SAXENA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU106",
+      "name": "SANSKRITI AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU107",
+      "name": "SARTHAK MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU108",
+      "name": "SAURABH SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU109",
+      "name": "SHAGUFTA SHADAB",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU110",
+      "name": "SHALU VERMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU111",
+      "name": "SHARAD DIXIT",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU112",
+      "name": "SHASHANK SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU113",
+      "name": "SHAURYA KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU114",
+      "name": "SHAURYA SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU115",
+      "name": "SHEERSH GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU116",
+      "name": "SHIBI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU117",
+      "name": "SHIFA KHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU118",
+      "name": "SHIKHAR TIWARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU119",
+      "name": "SHIVAM SINGH BHANDARI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU120",
+      "name": "SHIVANI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU121",
+      "name": "SHIVANSH MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU122",
+      "name": "SHIVANSH SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU123",
+      "name": "SHIVI MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU124",
+      "name": "SHOURYA SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU125",
+      "name": "SHRADDHA DWIVEDI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU126",
+      "name": "SHREYA YADAV",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU127",
+      "name": "SHUBHAM KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU128",
+      "name": "SONU KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU129",
+      "name": "STUTI KATYAYAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU130",
+      "name": "SURYANSH GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU131",
+      "name": "SWATI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU132",
+      "name": "TANYA MISHRA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU133",
+      "name": "TANYA SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU134",
+      "name": "TARUN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU135",
+      "name": "TEJAS SRIVASTAVA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU136",
+      "name": "TEJASVI GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU137",
+      "name": "UNNATI SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU138",
+      "name": "UTKARSH CHADDHA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU139",
+      "name": "UTKRISHTA SHARMA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU140",
+      "name": "VAIBHAV GUPTA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU141",
+      "name": "VAIBHAV SHUKLA",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU142",
+      "name": "VANSH AWASTHI",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU143",
+      "name": "VEER PRATAP SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU144",
+      "name": "VIKAS",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU145",
+      "name": "VISHAL KUMAR",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU146",
+      "name": "YUVRAJ SINGH",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU147",
+      "name": "ZAMEER KHAN",
+      "year": "BCA1"
+    },
+    {
+      "id": "STU148",
+      "name": "Abdul",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU149",
+      "name": "Abhay",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU150",
+      "name": "Abhinav Verma",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU151",
+      "name": "Adarsh Vaishy",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU152",
+      "name": "Adil",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU153",
+      "name": "Adity Tiwari",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU154",
+      "name": "Adnan",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU155",
+      "name": "Agrima",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU156",
+      "name": "Akarsh",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU157",
+      "name": "Akansha",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU158",
+      "name": "Ali",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU159",
+      "name": "Almas",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU160",
+      "name": "Amit Singh",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU161",
+      "name": "Ambuj",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU162",
+      "name": "Anshuman",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU163",
+      "name": "Anshuman Gautam",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU164",
+      "name": "Anushka",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU165",
+      "name": "Anvita",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU166",
+      "name": "Anya",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU167",
+      "name": "Aparna",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU168",
+      "name": "Arti",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU169",
+      "name": "Ayush Bajpai",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU170",
+      "name": "Ayush Mishra",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU171",
+      "name": "Ayan",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU172",
+      "name": "Deepa",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU173",
+      "name": "Deepshika",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU174",
+      "name": "Devansh Pandey",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU175",
+      "name": "Divyansh Vaishy",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU176",
+      "name": "Fatima",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU177",
+      "name": "Insha",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU178",
+      "name": "Ishita",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU179",
+      "name": "Kartikey",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU180",
+      "name": "Krishna",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU181",
+      "name": "Kriti",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU182",
+      "name": "Kushal",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU183",
+      "name": "Mahi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU184",
+      "name": "Manas",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU185",
+      "name": "Mariyam",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU186",
+      "name": "Mehek",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU187",
+      "name": "Nishant",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU188",
+      "name": "Pavni",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU189",
+      "name": "Parth",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU190",
+      "name": "Purvi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU191",
+      "name": "Ravi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU192",
+      "name": "Rudra",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU193",
+      "name": "Safan",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU194",
+      "name": "Satbeer",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU195",
+      "name": "Shivam",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU196",
+      "name": "Shlоk Gupta",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU197",
+      "name": "Shobhit Awasthi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU198",
+      "name": "Shrawil",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU199",
+      "name": "Shubhi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU200",
+      "name": "Srishti Dixit",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU201",
+      "name": "Srsihti Yadav",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU202",
+      "name": "Vaibhav",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU203",
+      "name": "Vaishnavi",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU204",
+      "name": "Vijay Rathour",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU205",
+      "name": "Yash Pathak",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU206",
+      "name": "Zoina",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU207",
+      "name": "Zaid",
+      "year": "BCA2"
+    },
+     {
+      "id": "STU208",
+      "name": "Alok Mishra",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU209",
+      "name": "Amitesh Awasthi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU210",
+      "name": "Ansh Tripathi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU211",
+      "name": "Anshuman Shukla",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU212",
+      "name": "Anushka",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU213",
+      "name": "Archi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU214",
+      "name": "Arnav Kumar",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU215",
+      "name": "Aryan Pratap Singh",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU216",
+      "name": "Balveer",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU217",
+      "name": "Deepshika",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU218",
+      "name": "Devendra",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU219",
+      "name": "Devraj",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU220",
+      "name": "Devyanshi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU221",
+      "name": "Gurumukh Singh",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU222",
+      "name": "Krati",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU223",
+      "name": "Mahi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU224",
+      "name": "Mansi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU225",
+      "name": "Mohit",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU226",
+      "name": "Nitya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU227",
+      "name": "Parth",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU228",
+      "name": "Parth Gupta",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU229",
+      "name": "Poornyoday Singh",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU230",
+      "name": "Pratibha",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU231",
+      "name": "Priya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU232",
+      "name": "Raja Bhaiya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU233",
+      "name": "Raj Verma",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU234",
+      "name": "Rashi",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU235",
+      "name": "Rudra Pratap Singh",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU236",
+      "name": "Shashank Vaish",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU237",
+      "name": "Shaswat Baranwal",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU238",
+      "name": "Sheetal",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU239",
+      "name": "Shreya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU240",
+      "name": "Soumya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU241",
+      "name": "Sukrati",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU242",
+      "name": "Sumedha",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU243",
+      "name": "Tanmay Singh Chauhan",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU244",
+      "name": "Tanya",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU245",
+      "name": "Vertika",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU246",
+      "name": "Vikash Gupta",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU247",
+      "name": "Vishwas Tiwari",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU248",
+      "name": "Rishabh Patwa",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU249",
+      "name": "Tanay Shukla",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU250",
+      "name": "Sameer Shukla",
+      "year": "BCA3"
+    },
+    {
+      "id": "STU251",
+      "name": "Shiv Prakash",
+      "year": "BCA2"
+    },
+    {
+      "id": "STU252",
+      "name": "Parijat Dixit",
+      "year": "BCA2"
+    }
+  ],
+  "faculty": [   {     "id": "FAC001",     "name": "Dr. Shashi Kala Mishra"   },   
+  {     "id": "FAC002",     "name": "Dr. Manish Gupta"   },   
+  {     "id": "FAC003",     "name": "Dr. Sanket Verma"   },   
+  {     "id": "FAC004",     "name": "Dr. Yogesh Chandra Dixit"   },   
+  {     "id": "FAC005",     "name": "Dr. Rajesh Kumar Srivastava"   },   
+  {     "id": "FAC006",     "name": "Dr. Arshad Ali"   },   
+  {     "id": "FAC007",     "name": "Mr. Pankaj Srivastava"   },   
+  {     "id": "FAC008",     "name": "Mr. Mohit Srivastava"   },   
+  {     "id": "FAC009",     "name": "Dr. Kush Kumar Patwa"   },   
+  {     "id": "FAC010",     "name": "Ms. Reema Sharma"   },   
+  {     "id": "FAC011",     "name": "Mr. Ishan Dwivedi"   },   
+  {     "id": "FAC012",     "name": "Ms. Sonali Srivastava"   },   
+  {     "id": "FAC013",     "name": "Ms. Komal Jain"   },   
+  {     "id": "FAC014",     "name": "Mohd Gayas Ansari"   },   
+  {     "id": "FAC015",     "name": "Mr. Sandeep Kumar"   },   
+  {     "id": "FAC016",     "name": "Dr. Sayma Samreen"   },   
+  {     "id": "FAC017",     "name": "Ms. Shraddha Srivastava"   },   
+  {     "id": "FAC018",     "name": "Mr. Vishwadeep Shukla"   },   
+  {     "id": "FAC019",     "name": "Dr. Manoj Dhameja"   },   
+  {     "id": "FAC020",     "name": "Mr. Sarthak Mahawar"   },   
+  {     "id": "FAC021",     "name": "Dr. Lata Verma"   },   
+  {     "id": "FAC022",     "name": "Ms. Aradhana"   },   
+  {     "id": "FAC023",     "name": "Mr. Umang Arora"   },   
+  {     "id": "FAC024",     "name": "Ms. Noorin Fatima"   },   
+  {     "id": "FAC025",     "name": "Mr. Naresh Kumar"   },   
+  {     "id": "FAC026",     "name": "Ms. Ambika Gangwar"   },   
+  {     "id": "FAC027",     "name": "Ms. Namita Chaturvedi"   },   
+  {     "id": "FAC028",     "name": "Mr. Ravikant Yadav"   },   
+  {     "id": "FAC029",     "name": "Mr. Kamal Bajpai"   },   
+  {     "id": "FAC030",     "name": "Mrs. Neha Malhotra"   },   
+  {     "id": "FAC031",     "name": "Dr. Luv Kumar Patwa"   },   
+  {     "id": "FAC032",     "name": "Ms. Samriddhi Srivastava"   },   
+  {     "id": "FAC033",     "name": "Mr. Shri Nath Gupta"   },   
+  {     "id": "FAC034",     "name": "Ms. Akriti Mary"   },   
+  {     "id": "FAC035",     "name": "Mrs. Rashmi Mishra"   },   
+  {     "id": "FAC036",     "name": "Mrs. Shobhita Tandon"   },   
+  {     "id": "FAC037",     "name": "Mrs. Neema Gupta"   },   
+  {     "id": "FAC038",     "name": "Mr. Dushyant Jaiswal"   },   
+  {     "id": "FAC039",     "name": "Mr. Shri Prakash Singh "   },   
+  {     "id": "FAC040",     "name": "Mr. Chandra Prakash Awasthi"   },   
+  {     "id": "FAC041",     "name": "Mr. Anil K Srivastava"   },
+  {     "id": "FAC042",     "name": "Mr. Shashank Srivastava"   },   
+  {     "id": "FAC043",     "name": "Mr. Shambhu"   },   
+  {     "id": "FAC044",     "name": "Mr. Kunhu lal"   },   
+  {     "id": "FAC045",     "name": "Mr. Deepak Kumar jaiswal"   },   
+  {     "id": "FAC046",     "name": "Mr. Amrendra Kumar Bharti"   },   
+  {     "id": "FAC047",     "name": "Mr. Molhe"   },   
+  {     "id": "FAC048",     "name": "Mr. Surendra Kumar"   },   
+  {     "id": "FAC049",     "name": "Mrs. Suman Pal"   },   
+  {     "id": "FAC050",     "name": "Mrs. Seema Devi"   },   
+  {     "id": "FAC051",     "name": "Mr. Satish kumar Bhargava"   },   
+  {     "id": "FAC052",     "name": "Mr. Wilfred Haward"   },   
+  {     "id": "FAC053",     "name": "Mr. Brijendra Mishra"   },   
+  {     "id": "FAC054",     "name": "Mr. Kamlesh Kumar"   },   
+  {     "id": "FAC055",     "name": "Mr. Gyanendra Kumar"   },   
+  {     "id": "FAC056",     "name": "Mr. Abhilekh Kuamr"   }
+],
+  "administration": [
+    {
+      "id": "ADM001",
+      "name": "Rev. Fr. Sajimon Philip, CMI"
+    },
+    {
+      "id": "ADM002",
+      "name": "Rev. Fr. Joe Philip, CMI"
+    },
+    {
+      "id": "ADM003",
+      "name": "Rev. Fr. Jibin Jose, CMI"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#10021e">
+<title>The Heartians Ignite | RSVP</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="glow g1"></div><div class="glow g2"></div><div class="sparkles"></div>
+
+<main class="shell">
+  <section class="card" id="selectionPage">
+    <div class="topbar"></div>
+    <header class="hero">
+      <div class="college">SACRED HEART DEGREE COLLEGE</div>
+      <div class="dept">DEPARTMENT OF COMPUTER SCIENCE</div>
+      <div class="mini">P R E S E N T S</div>
+      <div class="crown">♕</div>
+      <h1><small>THE</small> HEARTIANS <em>IGNITE</em></h1>
+      <p class="tag">Beginning of a New Chapter</p>
+    </header>
+
+    <div class="welcome">
+      <p class="eyebrow">YOUR PERSONALIZED INVITATION</p>
+      <h2>You're Invited ✦</h2>
+      <p>Select your role and name to open your invitation.</p>
+    </div>
+
+    <form id="guestForm" class="form">
+      <label>Role
+        <select id="role" required>
+          <option value="">Select your role</option>
+          <option value="students">Student</option>
+          <option value="faculty">Faculty</option>
+          <option value="administration">Administration</option>
+        </select>
+      </label>
+
+      <label id="yearWrap" class="hidden">Year
+        <select id="year">
+          <option value="">Select year</option>
+          <option value="BCA1">BCA 1</option>
+          <option value="BCA2">BCA 2</option>
+          <option value="BCA3">BCA 3</option>
+        </select>
+      </label>
+
+      <label>Name
+        <select id="name" required disabled>
+          <option value="">Select role first</option>
+        </select>
+      </label>
+
+      <p id="lookupStatus" class="status"></p>
+      <button class="primary" type="submit">OPEN MY INVITATION <span>→</span></button>
+    </form>
+
+    <div class="event-strip">
+      <div><b>17 SEP 2026</b><span>DATE</span></div>
+      <div><b>10:30 AM</b><span>TIME</span></div>
+      <div><b>SHIMT ATRIUM</b><span>VENUE</span></div>
+    </div>
+    <footer>Music • Dance • Fun Games • Food</footer>
+  </section>
+
+  <section class="card hidden" id="invitationPage">
+    <div class="topbar"></div>
+    <div class="final-card" id="pdfCard">
+      <div class="final-head">
+        <div class="college">SACRED HEART DEGREE COLLEGE</div>
+        <div class="dept">DEPARTMENT OF COMPUTER SCIENCE</div>
+        <div class="mini">WARMLY INVITES</div>
+        <div class="crown">♕</div>
+        <h1><small>THE</small> HEARTIANS <em>IGNITE</em></h1>
+        <p class="tag">Beginning of a New Chapter</p>
+      </div>
+      <div class="guest">
+        <p class="eyebrow">THIS INVITATION IS ESPECIALLY FOR</p>
+        <h2 id="finalName">Guest</h2>
+        <p id="finalRole"></p>
+        <div class="gold"></div>
+      </div>
+      <div class="details">
+        <div><span>📅</span><b>17 SEPTEMBER 2026</b><small>DATE</small></div>
+        <div><span>⏰</span><b>10:30 AM</b><small>TIME</small></div>
+        <div><span>📍</span><b>SHIMT ATRIUM</b><small>VENUE</small></div>
+      </div>
+      <div class="features"><span>♪ MUSIC</span><span>♬ DANCE</span><span>✦ FUN GAMES</span><span>♥ FOOD</span></div>
+      <div class="response-badge" id="finalResponse">RSVP: ATTENDING</div>
+      <p class="legendary">Let's Make It Legendary ✦</p>
+      <p class="tiny">New Faces • New Stories • New Memories</p>
+    </div>
+
+    <div class="quick-rsvp" id="quickRsvp">
+      <p class="eyebrow">CONFIRM YOUR PRESENCE</p>
+      <div class="quick-rsvp-grid">
+        <button type="button" class="quick-choice" data-response="Attending"><span>✓</span><b>I'm In!</b><small>See you there</small></button>
+        <button type="button" class="quick-choice" data-response="Maybe"><span>?</span><b>Maybe</b><small>I'll confirm soon</small></button>
+        <button type="button" class="quick-choice" data-response="Can't Attend"><span>×</span><b>Can't Attend</b><small>Sending my wishes</small></button>
+      </div>
+      <input id="phone" type="tel" placeholder="Phone (optional)">
+      <textarea id="message" rows="2" placeholder="Short message (optional)"></textarea>
+      <p class="status" id="rsvpStatus"></p>
+    </div>
+
+    <div class="actions">
+      <button class="primary" id="downloadPdf">DOWNLOAD INVITATION PDF ↓</button>
+      <button class="secondary" id="backHome">CREATE ANOTHER INVITATION</button>
+      <p class="status" id="pdfStatus"></p>
+    </div>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
